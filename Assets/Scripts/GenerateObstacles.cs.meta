@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 967aee1e1318b3b4ea80c167154ec9c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstaclePrefab: {fileID: 7657653849799554549, guid: bac88c80a071707439f0c791e5a7c442,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
